@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452712010358",
+    "project_id": "tealink-financial-manage-8bcd2",
+    "storage_bucket": "tealink-financial-manage-8bcd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452712010358:android:88fa3c17aa6c5fae874557",
+        "android_client_info": {
+          "package_name": "com.example.financial_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452712010358-8krnkcmsq29gq7u1o3tuv9hn43q4nqm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3L4_aUZzaAL7OIUy3GEe4MQsiol5LK7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452712010358-8krnkcmsq29gq7u1o3tuv9hn43q4nqm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
